@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html lang="en-US">
     <head>
-        <title>As18</title>
+        <title>Top Ten Countries with Highest # Of Covid Deaths</title>
         <meta charset="hutf-8" />
     </head>
     
@@ -9,7 +9,7 @@
         <div class = "container">
         <?php
         echo "<div class='page-header'>
-                <h1>As18 Covid-19 Deaths api</h1>
+                <h1>Covid-19 Deaths api</h1>
                 <a href='https://github.com/rtaub/api'>Github code</a>
             </div>";
         ?>
