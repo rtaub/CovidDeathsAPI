@@ -10,7 +10,7 @@
         <?php
         echo "<div class='page-header'>
                 <h1>Covid-19 Deaths api</h1>
-                <a href='https://github.com/rtaub/api'>Github code</a>
+                <a href='https://github.com/rtaub/CovidDeathsAPI'>Github code</a>
             </div>";
         ?>
                          
